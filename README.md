@@ -1,4 +1,4 @@
-# Parcial 1 — Estructuras de Datos en C
+# Parcial 1 — Estructuras de Datos 
 
 ## Descripción
 Programa de consola para mostrar puntajes de un competidor y ordenarlos con Bubble Sort, Selection Sort o Insertion Sort, en orden ascendente o descendente. El módulo de datos usa un apuntador y memoria dinámica (`malloc`/`free`).
@@ -28,12 +28,5 @@ Ejecutar en Windows:
 
 En Linux/macOS, enlazar con `-o programa` y ejecutar `./programa`.
 
-## Antes de entregar
-1. Cambia en `main.c` el comentario de participante por los nombres reales.
-2. Ejecuta y prueba el programa en tu computador.
-3. Guarda en `evidencias/` tres capturas reales: archivos/prototipos/guardas; compilación separada; ejecución con ordenamiento.
-4. Sube los cambios al repositorio de la clase ya existente. No crees uno nuevo.
-5. Practica explicar cada módulo y cada algoritmo con tus propias palabras.
 
-## Nota sobre evidencias
-Las imágenes `evidencia_*.svg` son esquemas ilustrativos generados para orientar qué capturar. No sustituyen las capturas reales solicitadas por el docente, porque esas deben mostrar el editor y la terminal de tu propio equipo.
+
